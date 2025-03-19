@@ -8,7 +8,6 @@
 </p>
 🚀 **Postdoctoral Research Fellow** | 🎯 **AI Researcher** | 📍 **The University of Queensland, Australia**
 
----
 
 ### 🔬 About Me
 - 🏫 **Postdoctoral Research Fellow** at **CIRES, The University of Queensland, Australia**  
@@ -21,7 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-wang&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
----
 
 ⭐️ **Feel free to explore my repos & connect with me!** 🚀
 
