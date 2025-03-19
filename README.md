@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Zixin Wang!  
 
-<p align="center">
+<p align="left">
   <a href="https://jo-wang.github.io/">
     <img src="https://img.shields.io/badge/Website-Portfolio-%23000000?logo=googlechrome&style=for-the-badge" />
   </a>
@@ -14,7 +14,6 @@
 
 🚀 **Postdoctoral Research Fellow** | 🎯 **AI Researcher** | 📍 **The University of Queensland, Australia**
 
----
 
 ### 🔬 About Me
 - 🏫 **Postdoctoral Research Fellow** at **CIRES, The University of Queensland, Australia**  
@@ -22,6 +21,5 @@
 - 💡 **Experience**: Research Assistant | Lead Tutor | Guest Lecturer  
 - ✉️ **Contact Me**: zixin.wang@uq.edu.au  
 
----
 
 ⭐️ **Feel free to explore my repos & connect with me!** 🚀
