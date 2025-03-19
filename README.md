@@ -11,7 +11,7 @@
 
 ### 🔬 About Me
 - 🏫 **Postdoctoral Research Fellow** at **CIRES, The University of Queensland, Australia**  
-- 🎯 **Research Interests**: Domain Adaptation, Test-Time Adaptation, Vision-Language Models, GNNs  
+- 🎯 **Research Interests**: Domain Adaptation, Test-Time Adaptation, Vision-Language Models, GNNs, Diffusion Models, PEFT
 - 💡 **Experience**: Research Assistant | Lead Tutor | Guest Lecturer  
 - ✉️ **Contact Me**: zixin.wang@uq.edu.au  
 
