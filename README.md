@@ -19,7 +19,9 @@
 - 🏫 **Postdoctoral Research Fellow** at **CIRES, The University of Queensland, Australia**  
 - 🎯 **Research Interests**: Domain Adaptation, Test-Time Adaptation, Vision-Language Models, GNNs, Diffusion Models, PEFT  
 - 💡 **Experience**: Research Assistant | Lead Tutor | Guest Lecturer  
-- ✉️ **Contact Me**: zixin.wang@uq.edu.au  
+- ✉️ **Contact Me**: zixin.wang@uq.edu.au
+- 🌟 **My English name isn't Jo!** I just got obsessed with JoJo’s Bizarre Adventure, made this GitHub name on a whim… and now I have to explain it for eternity.
+
 
 
 ⭐️ **Feel free to explore my repos & connect with me!** 🚀
